@@ -1,0 +1,4 @@
+# 最强王者万象版 — Python backend (Render)
+# Only Turso (libSQL) + bcrypt are third-party; everything else is stdlib.
+libsql-client==0.2.2
+bcrypt>=4.1.0
